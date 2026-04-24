@@ -10,6 +10,8 @@ public class LengthMethod {
 /*
 
 # length() is a final method which is used for string object;
-to count to available character inside the string object
+to count to available character inside the string object.
+
+
 
  */
