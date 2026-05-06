@@ -8,7 +8,7 @@ public class Immutable_Mutable {
         str.replace('A','W'); // Arvind : cant change it; (immutable)
         System.out.println(str);
 
-        char[] ch = str.toCharArray();
+        char[] ch = str.toCharArray()  ;
         ch[0]='W';
         System.out.println(ch); // Wrvind : can change (mutable)
 
