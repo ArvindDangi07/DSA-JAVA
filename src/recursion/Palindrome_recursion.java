@@ -5,7 +5,7 @@ public class Palindrome_recursion {
     public static boolean f(int i,String str){
         int n = str.length();
         if(i>=n/2){
-            return true;
+            return  true;
         }
 
         if(str.charAt(i)!=str.charAt(n-i-1)){
