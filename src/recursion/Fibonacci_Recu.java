@@ -13,6 +13,6 @@ public class Fibonacci_Recu {
     public static void main(String[] args) {
         int i = 4;
 
-        System.out.println(fibo(i));
+        System.out. println(fibo(i));
     }
 }
